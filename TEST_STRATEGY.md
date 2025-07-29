@@ -1,6 +1,6 @@
 # 🧪 Test Strategy Document  
-**Project:** MERN Todo App – Automation Test Strategy  
-**Prepared By:** Swati  
+**Project:** UI_Api_Automation_Framework_Swati Test Strategy  
+**Prepared By:** Swati 
 **Date:** July 2025  
 
 ---
